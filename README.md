@@ -1,5 +1,3 @@
-# **Wrong folder structure, fix it later**
-
 # FLAC Audio Chunking & Whisper Transcription
 
 This project chunks FLAC audio files into 20-second segments and transcribes them using OpenAI's Whisper LLM via HuggingFace Inference API.
